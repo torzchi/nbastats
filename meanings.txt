@@ -1,0 +1,26 @@
+G (Games Played):   - number of games played by the player
+GS (Games Started):   - number of games started by the player
+MP (Minutes Played):   - total minutes played by the player
+FG (Field Goals)- number of field goals made by the player
+FGA (Field Goal Attempts) - number of field goal attempts by the player
+FG% (Field Goal Percentage):    - percentage of field goals made by the player
+3P (3-Point Field Goals):   - number of 3-point field goals made by the player
+3PA (3-Point Field Goal Attempts):   - number of 3-point field goal attempts by the player
+3P% (3-Point Field Goal Percentage):    - percentage of 3-point field goals made by the player
+2P (2-Point Field Goals):   - number of 2-point field goals made by the player
+2PA (2-point Field Goal Attempts):   - number of 2-point field goal attempts by the player
+2P% (2-Point Field Goal Percentage):    - percentage of 2-point field goals made by the player
+eFG% (Effective Field Goal Percentage):    - effective field goal percentage of the player
+FT (Free Throws):   - number of free throws made by the player
+FTA (Free Throw Attempts):   - number of free throw attempts by the player
+FT% (Free Throw Percentage):    - percentage of free throws made by the player
+ORB (Offensive Rebounds):   - number of offensive rebounds by the player
+DRB (Defensive Rebounds):   - number of defensive rebounds by the player
+TRB (Total Rebounds):   - total rebounds by the player
+AST (Assists):   - number of assists made by the player
+STL (Steals):   - number of steals made by the player
+BLK (Blocks):   - number of blocks made by the player
+TOV (Turnovers):   - number of turnovers made by the player
+PF (Personal Fouls):   - number of personal fouls made by the player
+PTS (Points):   - total points scored by the player
+
