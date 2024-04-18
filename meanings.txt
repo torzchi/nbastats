@@ -23,4 +23,4 @@ BLK (Blocks):   - number of blocks made by the player
 TOV (Turnovers):   - number of turnovers made by the player
 PF (Personal Fouls):   - number of personal fouls made by the player
 PTS (Points):   - total points scored by the player
-
+* after name = he is a Hall of Famer (https://en.wikipedia.org/wiki/List_of_players_in_the_Naismith_Memorial_Basketball_Hall_of_Fame)
